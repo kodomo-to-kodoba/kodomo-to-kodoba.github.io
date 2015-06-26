@@ -1,0 +1,20 @@
+{
+  "name": "kodomo-to-kodoba",
+  "version": "0.0.0",
+  "authors": [
+    "winniehell <git@winniehell.de>"
+  ],
+  "license": "MIT",
+  "homepage": "https://kodomo-to-kodoba.github.io",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-material": "~0.10.0"
+  }
+}
